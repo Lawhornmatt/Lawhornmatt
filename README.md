@@ -1,14 +1,14 @@
 ### Who I am:
 
-I am a junior full-stack developer, but it's been a journey to get here. Two years ago I got my B.S. in Geology at UT El Paso. I've been a project manager and an assistant production manager at a plant. And for nearly a decade I was in the service industry. And now I take all the skills and lessons from those experiences, the support of the folks I met along the way, add a smidge of hacking away at a keyboard, and I get to make cutting edge web apps-- how cool is that?
+I am a junior full-stack developer with a bachelors in Geology from UT at El Paso. I've been a project manager and an assistant production manager at a plant and for nearly a decade I was in the service industry. And now I take all the skills and lessons from those experiences, the support of some amazing folks I met along the way, and I get to make cutting-edge web solutions.
 
 ### Should you contact me:
 
-I've heard of ES6+ JavaScript. Seen a MERN stack a couple of times. I think Next.js is fascinating. I am in love with the UI/UX of Apollo Client and GraphQL. Currently playing around with Electron.js
+I have made most of my projects with ES6+ JavaScript. I am always excited to work with a MERN stack. I think Next.js is fascinating. I am in love with the UI/UX of Apollo Client and GraphQL. Currently playing around with Electron.js
 
-As you may have guessed, I think rocks are pretty rad. Particularly: mapping with GIS, paleontology, and economic geology. Exploring how web development can cross over into these areas is an interest of mine.
+As you may have guessed, I think rocks are pretty rad. Particularly: mapping with GIS, paleontology, and economic geology. 
 
-If you read the above and think, "this is the kind of web development geo-nerd I am looking to recruit on my team" then you should definitely go to <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/matthew-lawhorn/">my LinkedIn</a> and send me a message!
+If you or your company work with anything even tangentially related to the above, I will probably find it interesting and would like to hear from you. Go to <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/matthew-lawhorn/">my LinkedIn</a> and send me a message!
 
 
 
