@@ -2,7 +2,7 @@
 
 I am a junior full-stack developer with a bachelors in Geology from UT at El Paso. I've been a project manager and an assistant production manager at a plant and for nearly a decade I was in the service industry. And now I take all the skills and lessons from those experiences, the support of some amazing folks I met along the way, and I get to make cutting-edge web solutions.
 
-### Should you contact me:
+### Let's collaborate:
 
 I have made most of my projects with ES6+ JavaScript. I am always excited to work with a MERN stack. I think Next.js is fascinating. I am in love with the UI/UX of Apollo Client and GraphQL. Currently playing around with Electron.js
 
