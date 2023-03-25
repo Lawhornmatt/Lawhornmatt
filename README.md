@@ -8,7 +8,7 @@ I have made most of my projects with ES6+ JavaScript. I am always excited to wor
 
 As you may have guessed, I think rocks are pretty rad. Particularly: mapping with GIS, paleontology, and economic geology. 
 
-If you or your company work with anything even tangentially related to the above, I will probably find it interesting and would like to hear from you. Go to <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/matthew-lawhorn/">my LinkedIn</a> and send me a message!
+If you or your company work with web development (or anything even tangentially related to the above), I will probably find it interesting and would like to hear from you. Go to <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/matthew-lawhorn/">my LinkedIn</a> and send me a message!
 
 
 
